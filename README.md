@@ -4,3 +4,5 @@ Ultimately designed to function with an IoT device that directly measures the we
 the nearest pharmacy for delivery when a refill is required. 
 
 Made using android studio and java. 
+
+Checkout on Devpost: https://devpost.com/software/2mg 
